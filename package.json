@@ -1,0 +1,14 @@
+{
+  "name": "bemindful",
+  "version": "1.0.0",
+  "description": "\"A mindfulness tracker project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Ismeil Hachem\"",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
